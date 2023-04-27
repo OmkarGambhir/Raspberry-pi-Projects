@@ -1,4 +1,5 @@
-<p align="center">![MasterHead](https://i.pinimg.com/originals/14/c3/0a/14c30a7dfd597095952ce00ce5ceb328.gif)</p>
+<p><img align="center" alt="Banner" width="460" src="https://i.pinimg.com/originals/14/c3/0a/14c30a7dfd597095952ce00ce5ceb328.gif"></p>
+
 <h1 align="center">My Raspberrypi Projects👌</h1>
 
 - Working on the Raspberry pi
