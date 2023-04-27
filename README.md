@@ -5,6 +5,7 @@
 - trying out different linux commands and making different projects
 - First project is on the traffic light:
 - https://user-images.githubusercontent.com/91041201/234779748-88b4d122-449b-4a6b-a981-f33921b93a94.mp4
+<p><img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/52/32/50/523250df786f01321303fd74c2084921.gif"></p>
 
 
 
